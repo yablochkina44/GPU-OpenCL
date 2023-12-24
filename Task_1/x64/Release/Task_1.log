@@ -1,0 +1,18 @@
+﻿main.obj : error LNK2001: неразрешенный внешний символ clCreateBuffer.
+main.obj : error LNK2001: неразрешенный внешний символ clEnqueueNDRangeKernel.
+main.obj : error LNK2001: неразрешенный внешний символ clBuildProgram.
+main.obj : error LNK2001: неразрешенный внешний символ clReleaseCommandQueue.
+main.obj : error LNK2001: неразрешенный внешний символ clReleaseProgram.
+main.obj : error LNK2001: неразрешенный внешний символ clReleaseKernel.
+main.obj : error LNK2001: неразрешенный внешний символ clCreateCommandQueue.
+main.obj : error LNK2001: неразрешенный внешний символ clCreateContextFromType.
+main.obj : error LNK2001: неразрешенный внешний символ clEnqueueReadBuffer.
+main.obj : error LNK2001: неразрешенный внешний символ clReleaseContext.
+main.obj : error LNK2001: неразрешенный внешний символ clGetContextInfo.
+main.obj : error LNK2001: неразрешенный внешний символ clGetPlatformIDs.
+main.obj : error LNK2001: неразрешенный внешний символ clGetPlatformInfo.
+main.obj : error LNK2001: неразрешенный внешний символ clReleaseMemObject.
+main.obj : error LNK2001: неразрешенный внешний символ clCreateKernel.
+main.obj : error LNK2001: неразрешенный внешний символ clCreateProgramWithSource.
+main.obj : error LNK2001: неразрешенный внешний символ clSetKernelArg.
+D:\GPU\x64\Release\Task_1.exe : fatal error LNK1120: неразрешенных внешних элементов: 17

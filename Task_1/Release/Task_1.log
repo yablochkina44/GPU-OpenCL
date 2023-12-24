@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\GPU\Task_1\main.cpp(101,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\GPU\Task_1\main.cpp(110,24): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  0 of 13 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Task_1.vcxproj -> D:\GPU\Release\Task_1.exe

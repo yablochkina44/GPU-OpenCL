@@ -1,0 +1,20 @@
+﻿  main.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 300 (OpenCL 3.0)
+main.obj : error LNK2001: неразрешенный внешний символ clCreateBuffer.
+main.obj : error LNK2001: неразрешенный внешний символ clEnqueueNDRangeKernel.
+main.obj : error LNK2001: неразрешенный внешний символ clBuildProgram.
+main.obj : error LNK2001: неразрешенный внешний символ clReleaseCommandQueue.
+main.obj : error LNK2001: неразрешенный внешний символ clReleaseProgram.
+main.obj : error LNK2001: неразрешенный внешний символ clReleaseKernel.
+main.obj : error LNK2001: неразрешенный внешний символ clCreateCommandQueue.
+main.obj : error LNK2001: неразрешенный внешний символ clCreateContextFromType.
+main.obj : error LNK2001: неразрешенный внешний символ clEnqueueReadBuffer.
+main.obj : error LNK2001: неразрешенный внешний символ clReleaseContext.
+main.obj : error LNK2001: неразрешенный внешний символ clGetContextInfo.
+main.obj : error LNK2001: неразрешенный внешний символ clGetPlatformIDs.
+main.obj : error LNK2001: неразрешенный внешний символ clReleaseMemObject.
+main.obj : error LNK2001: неразрешенный внешний символ clCreateKernel.
+main.obj : error LNK2001: неразрешенный внешний символ clCreateProgramWithSource.
+main.obj : error LNK2001: неразрешенный внешний символ clSetKernelArg.
+D:\GPU\x64\Release\Task_3.exe : fatal error LNK1120: неразрешенных внешних элементов: 16
+D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" завершилась с кодом 1120.
